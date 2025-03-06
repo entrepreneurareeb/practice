@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fffbea;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.b-1{
+    border:  #682c01c5 ;
+    border-style: solid;
+    border-radius: 8px;
+    
+}
+header {
+    background-color: #682c01c5;
+    color: white;
+    padding: 20px 0;
+    text-align:center;
+    
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.introduction {
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 100%;
+    box-shadow: 10px 10px 1px  #682c0162;
+   
+}
+.ingredients {
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 150px;
+    box-shadow: 10px 10px 1px  #682c0162;
+   
+}
+.instructions {
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 150px;
+    box-shadow: 10px 10px 1px #682c0162;
+   
+}
+
+.ingredients h2, .instructions h2 {
+    color: #b3568f;
+    text-align: center;
+}
+
+ul, ol {
+    margin-left: 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #682c01c5;
+    
+    padding: 10px 0;
+   width: 100%;
+ }
+a
+ {
+     color: #501818fd;
+     font-family: fantasy ;
+     font-weight: lighter;
+     
+ }
+ 

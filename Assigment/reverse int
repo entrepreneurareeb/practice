@@ -1,0 +1,12 @@
+function reversedInt(number){
+    let a=Math.abs(number)
+    let c=''
+    let b=a.toString()
+    for(q=b.length  -1;q>=0;q--){
+        c+=b[q]
+    }
+    console.log(parseInt(c))
+}
+
+
+reversedInt(-162)
